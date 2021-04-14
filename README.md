@@ -1,6 +1,6 @@
 # swichapp
 
-Custom Swich App
+Custom Switch Widget
 
 ## Getting Started
 
