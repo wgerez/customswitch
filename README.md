@@ -1,4 +1,4 @@
-# swichapp
+# Custom Switch Widget
 
 Custom Switch Widget
 
