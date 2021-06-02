@@ -9,7 +9,12 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       body: Container(
         child: Center(
-          child: SwitchWidget(),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              SwitchWidget(),
+            ],
+          ),
         ),
       ),
     );
